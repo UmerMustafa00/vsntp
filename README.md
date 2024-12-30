@@ -7,6 +7,23 @@ Vision Shield Advanced Surveillance Network for Total Protection (VSTP)
 The **Vision Shield Advanced Surveillance Network for Total Protection (VSTP)** is an innovative security solution designed to enhance perimeter protection and access control using advanced camera technology and sophisticated algorithms. This cutting-edge system integrates multiple security functionalities into a unified platform, offering real-time monitoring, intrusion detection, vehicle tracking, and access management capabilities.
 
 ---
+## 📷 Screenshots
+
+### Screenshot 1
+![Screenshot 1](vsntp1.png)
+
+### Screenshot 2
+![Screenshot 2](vsntp2.png)
+
+### Screenshot 3
+![Screenshot 3](vsntp3.png)
+
+### Screenshot 4
+![Screenshot 4](vsntp4.png)
+
+### Screenshot 5
+![Screenshot 5](vsntp5.png)
+---
 
 ## 🎯 Objectives
 
@@ -57,6 +74,22 @@ VSTP delivers significant value to stakeholders:
 
 ---
 
+## 📲 Getting Started
+
+### **Prerequisites**
+Ensure you have the following installed:
+- **Python 3.x**  
+- **Flutter SDK**  
+- **Firebase Account**  
+- **Visual Studio Code**  
+
+### **Installation**
+
+**1. Clone the repository:**
+```bash
+git clone https://github.com/yourusername/VSTP.git
+
+---
 
 
 ## 📂 Repository Structure
@@ -67,56 +100,3 @@ VSTP delivers significant value to stakeholders:
 ├── models/        # Machine learning models (YOLOv8, OpenCV)
 ├── docs/          # Documentation and user guides
 └── tests/         # Testing scripts and test cases
-----
-## 📲 Getting Started
-#Prerequisites
-#Python 3.x
-#Flutter SDK
-#Firebase account
-#Visual Studio Code
-#Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/VSTP.git
-Set up dependencies:
-bash
-Copy code
-cd backend
-pip install -r requirements.txt
-Run the backend server:
-bash
-Copy code
-python app.py
-Launch the frontend:
-bash
-Copy code
-cd ../frontend
-flutter run
-🤝 Contributing
-We welcome contributions! Please follow our Contribution Guidelines.
----
-
-## 📷 Screenshots
-
-### Screenshot 1
-![Screenshot 1](vsntp1.png)
-
-### Screenshot 2
-![Screenshot 2](vsntp2.png)
-
-### Screenshot 3
-![Screenshot 3](vsntp3.png)
-
-### Screenshot 4
-![Screenshot 4](vsntp4.png)
-
-### Screenshot 5
-![Screenshot 5](vsntp5.png)
-
-
-
-
-
-
-
