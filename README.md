@@ -57,11 +57,7 @@ VSTP delivers significant value to stakeholders:
 
 ---
 
-##📧 Contact
--Project Lead: Umer Mustafa
--Email: umermustafaciitwah@gmail.com
--Project Website: https://cdc.cuiwah.edu.pk/Event/Project/6044
----
+
 
 ## 📂 Repository Structure
 ```plaintext
@@ -99,9 +95,25 @@ cd ../frontend
 flutter run
 🤝 Contributing
 We welcome contributions! Please follow our Contribution Guidelines.
+---
 
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## 📷 Screenshots
+
+### Screenshot 1
+![Screenshot 1](vsntp1.png)
+
+### Screenshot 2
+![Screenshot 2](vsntp2.png)
+
+### Screenshot 3
+![Screenshot 3](vsntp3.png)
+
+### Screenshot 4
+![Screenshot 4](vsntp4.png)
+
+### Screenshot 5
+![Screenshot 5](vsntp5.png)
+
 
 
 
